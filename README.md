@@ -13,6 +13,7 @@ Data used in this analysis can be down loaded from [kaggle](https://www.kaggle.c
 
 
 **Content**
+
 There are two data sets. Both are arranged on "structureId" of the protein.
 
 1. pdb_data_no_dups.csv :- Protein data set deatils of classification, extraction methods, etc. Containing 141401 instances and 14 attributes.
